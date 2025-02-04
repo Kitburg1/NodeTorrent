@@ -10,3 +10,6 @@
   example: for file `node torrent-client.js file.torrent -o ./downloads`.
   
   example: for magnet link `node torrent-client.js magnet:?xt=urn:btih:1234567890abcde123dn=yourtorrent --path ~/Downloads`.
+
+  # example picture:
+  ![Not Found 404](idk.png)
